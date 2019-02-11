@@ -1,0 +1,6 @@
+Ubuntu studio is an open source operating system specially designed for creating multimedia 
+content. The OS is based on Linux core. We have some powerful tool for manipulating audio, 
+graphics, vedio and photography which are free to use. For manipulating audio content we have
+powerful tools like JACK. Ardour etc. Most interesting fact is that the ubuntu studio comes with 
+all necessary and powerful softwares preinstalled, we dont even have to install the softwares. 
+
